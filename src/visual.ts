@@ -226,7 +226,7 @@ export class Visual implements IVisual {
           target,
           "And",
           {
-            operator: "Contains",
+            operator: "Is",
             value: text
           }
         );
